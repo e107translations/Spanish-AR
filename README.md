@@ -1,1 +1,1 @@
-# Argentinian
+# Spanish (Argentina)
