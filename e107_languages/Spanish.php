@@ -10,9 +10,9 @@
 +----------------------------------------------------------------------------+
 */
 
-setlocale(LC_ALL, 'en_GB.UTF-8', 'en_GB.utf8', 'eng_eng.utf8', 'en');
-define("CORE_LC", "en");
-define("CORE_LC2", "gb");
+setlocale(LC_ALL, 'es_AR.UTF-8', 'es_AR.utf8', 'es.utf8', 'es');
+define("CORE_LC", "es");
+define("CORE_LC2", "ar");
 // define("TEXTDIRECTION","rtl");
 // deprecated: all language packs must be UTF-8
 //define("CHARSET", "utf-8");  // for a true multi-language site. :)
